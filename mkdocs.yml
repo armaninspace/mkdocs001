@@ -1,0 +1,4 @@
+site_name: maja gamma docs
+nav:
+    - Home: index.md
+    - About: about.md
