@@ -1,4 +1,4 @@
-# Welcome to Maja Gamma Labs
+# Welcome to VzM labs
 
 Welcome to the site of Maja Gamma Labs.
 
